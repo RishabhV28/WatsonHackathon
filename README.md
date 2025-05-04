@@ -5,12 +5,12 @@ The project is a smart ai platform that creates ai generated emails by simply re
 
 This project was made for IBM watson Hackathon using ibm granite model and running on slack api in the "make work less boring" track
 
-Team members for this project are:
-Rishabh Verma
-Pratyush Patwal
-Ayush Parashar
-Mohd. Abdullah Meraj
-Anwesha Sen
+## Team members for this project are
+- Rishabh Verma
+- Pratyush Patwal
+- Ayush Parashar
+- Mohd. Abdullah Meraj
+- Anwesha Sen
 
 
 
